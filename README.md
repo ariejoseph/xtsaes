@@ -7,7 +7,7 @@ This program is made by using the AEScalc library to encrypt and decrypt in AES.
 
 How to compile:
 ```
-javac -cp .;AEScalc.jar \*.java
+javac -cp .;AEScalc.jar *.java
 ```
 
 How to run:
